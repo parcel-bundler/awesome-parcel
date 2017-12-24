@@ -1,6 +1,6 @@
-# Awesome Parcel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis CI Build Status](https://travis-ci.org/parcel-bundler/awesome-parcel.svg?branch=master)](https://travis-ci.org/parcel-bundler/awesome-parcel)
+# Awesome Parcel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack](https://slack.parceljs.org/badge.svg)](https://slack.parceljs.org) [![Twitter Follow](https://img.shields.io/twitter/follow/parceljs.svg?style=social)](https://twitter.com/parceljs)
 
-> A curated list of Parcel plugins, articles, etc.
+> A curated list of Parcel [plugins](https://www.npmjs.com/search?q=parcel-plugin-), articles, etc.
 
 
 ## Ecosystem
@@ -26,7 +26,7 @@
 
 ## Examples
 
-- [React](https://github.com/jaredpalmer/react-parcel-example) - A minimum viable React app.
+- [React](https://github.com/jaredpalmer/react-parcel-example) - Minimum viable React app.
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
@@ -36,30 +36,30 @@
 
 ### Templates
 
-- [Pug](https://github.com/Ty3uK/parcel-plugin-pug) - Pug template support for Parcel bundler.
-- [Markdown](https://github.com/gongpeione/parcel-plugin-markdown) - Parcel plugin for markdown.
-- [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Make Parcel supports Mustache templates.
-- [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Parcel plugin to compile Nunjucks templates.
+- [Pug](https://github.com/Ty3uK/parcel-plugin-pug) - Pug template support.
+- [Markdown](https://github.com/gongpeione/parcel-plugin-markdown) - Plugin for markdown support.
+- [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Plugin for Mustache template support.
+- [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
 
 ### Frameworks
 
-- [Vue.js](https://github.com/lc60005457/parcel-plugin-vue) - Make Parcel surport Vue single file components.
-- [Svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - A Parcel plugin that enables svelte support.
+- [Vue.js](https://github.com/lc60005457/parcel-plugin-vue) - Vue single file components support.
+- [Svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Svelte support.
 
 ### JavaScript dialects, other languages
 
-- [TypeScript](https://github.com/fathyb/parcel-plugin-typescript) - Enhanced TypeScript integration for Parcel.
-- [BuckleScript](https://github.com/jihchi/parcel-plugin-bucklescript) - A Parcel plugin that enables BuckleScript support
-- [Elm](https://github.com/ssuman/parcel-plugin-elm) - A Parcel plugin that enables Elm support.
-- [LightScript](https://github.com/chee/parcel-plugin-lightscript) - An example Parcel plugin for loading LightScript.
-- [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Parcel plugin for support Emscripten.
+- [TypeScript](https://github.com/fathyb/parcel-plugin-typescript) - Enhanced TypeScript integration.
+- [BuckleScript](https://github.com/jihchi/parcel-plugin-bucklescript) - Plugin that enables BuckleScript support
+- [Elm](https://github.com/ssuman/parcel-plugin-elm) - Plugin that enables Elm support.
+- [LightScript](https://github.com/chee/parcel-plugin-lightscript) - Example plugin for loading LightScript.
+- [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Plugin for Emscripten support.
 
 ### Other
 
-- [ESLint](https://github.com/lc60005457/parcel-plugin-eslint) - Make Parcel surport ESlint.
-- [Bundle Manifest](https://github.com/mugi-uno/parcel-plugin-bundle-manifest) - Parcel plugin for generating an bundle manifest.
-- [AppCache](https://github.com/pierredavidbelanger/parcel-plugin-appcache) - Parcel plugin for generating an appcache manifest.
-- [Inline SVG](https://github.com/albinotonnina/parcel-plugin-inlinesvg) - A parcel plugin that enables inline svg support.
+- [ESLint](https://github.com/lc60005457/parcel-plugin-eslint) - Plugin for ESlint support.
+- [Bundle Manifest](https://github.com/mugi-uno/parcel-plugin-bundle-manifest) - Plugin for generating a bundle manifest.
+- [AppCache](https://github.com/pierredavidbelanger/parcel-plugin-appcache) - Plugin for generating an appcache manifest.
+- [Inline SVG](https://github.com/albinotonnina/parcel-plugin-inlinesvg) - Plugin that enables inline svg support.
 
 
 ## Articles
@@ -76,7 +76,7 @@
 ### Russian
 
 - [Parcel — очень быстрый бандлер, не требующий настройки](https://habrahabr.ru/post/344486/) - Parcel quick review.
-- [Parcel — пишем плагин](https://habrahabr.ru/post/344858/) - how to write Parcel plugin.
+- [Parcel — пишем плагин](https://habrahabr.ru/post/344858/) - How to write a Parcel plugin.
 
 
 ## Contribute
