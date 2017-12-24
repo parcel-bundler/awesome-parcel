@@ -29,6 +29,7 @@
 - [React](https://github.com/jaredpalmer/react-parcel-example) - A minimum viable React app.
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
+- [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
 
 
 ## Plugins
