@@ -30,6 +30,7 @@
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
+- [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
 
 
 ## Plugins
