@@ -68,11 +68,14 @@
 ### English
 
 - [Announcing Parcel: A blazing fast, zero configuration web application bundler](https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=search_post---------0)
-- [Parcel Bundler: Creating a React Project](https://medium.com/@oieduardorabelo/parcel-bundler-criando-um-projeto-react-1a620a151e34)
 - [Create a React app with zero configuration using Parcel](https://medium.com/@ReactJS_News/create-a-react-app-with-zero-configuration-using-parcel-462aa304bc6b)
 - [Tutorial: Setting up React with Parcel. A comparison with Webpack 3](https://codeburst.io/tutorial-setting-up-react-with-parcel-a-comparison-with-webpack-3-dc628de8d1c)
 - [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@davidskang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
 - [Code Splitting with Parcel Web App Bundler](https://hackernoon.com/code-splitting-with-parcel-web-app-bundler-fe06cc3a20da)
+
+### Portuguese
+
+- [Parcel Bundler: Criando um projeto React](https://medium.com/@oieduardorabelo/parcel-bundler-criando-um-projeto-react-1a620a151e34)
 
 ### Russian
 
