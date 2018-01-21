@@ -27,6 +27,7 @@
 ## Examples
 
 - [React](https://github.com/jaredpalmer/react-parcel-example) - Minimum viable React app.
+- [React with SSR](https://github.com/gregtillbrook/react-head-start) - React starter app including Server Side Rendering and code splitting. 
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
