@@ -46,7 +46,7 @@
 
 ### Frameworks
 
-- [Vue.js](https://github.com/lc60005457/parcel-plugin-vue) - Vue single file components support.
+- [Vue.js](https://github.com/BoltDoggy/parcel-plugin-vue) - Vue single file components support.
 - [Svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Svelte support.
 - [Angular](https://github.com/fathyb/parcel-plugin-angular) - Angular support.
 
@@ -60,7 +60,7 @@
 
 ### Other
 
-- [ESLint](https://github.com/lc60005457/parcel-plugin-eslint) - Plugin for ESlint support.
+- [ESLint](https://github.com/BoltDoggy/parcel-plugin-eslint) - Plugin for ESlint support.
 - [Bundle Manifest](https://github.com/mugi-uno/parcel-plugin-bundle-manifest) - Plugin for generating a bundle manifest.
 - [AppCache](https://github.com/pierredavidbelanger/parcel-plugin-appcache) - Plugin for generating an appcache manifest.
 - [Inline SVG](https://github.com/albinotonnina/parcel-plugin-inlinesvg) - Plugin that enables inline svg support.
@@ -72,14 +72,14 @@
 ### English
 
 - [Announcing Parcel: A blazing fast, zero configuration web application bundler](https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=search_post---------0)
-- [Create a React app with zero configuration using Parcel](https://medium.com/@ReactJS_News/create-a-react-app-with-zero-configuration-using-parcel-462aa304bc6b)
+- [Create a React app with zero configuration using Parcel](https://medium.com/@JSNews/create-a-react-app-with-zero-configuration-using-parcel-462aa304bc6b)
 - [Tutorial: Setting up React with Parcel. A comparison with Webpack 3](https://www.valentinog.com/blog/tutorial-react-parcel-bundler/)
-- [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@davidskang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
+- [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@d.kang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
 - [Code Splitting with Parcel Web App Bundler](https://hackernoon.com/code-splitting-with-parcel-web-app-bundler-fe06cc3a20da)
 
 ### Portuguese
 
-- [Parcel Bundler: Criando um projeto React](https://medium.com/@oieduardorabelo/parcel-bundler-criando-um-projeto-react-1a620a151e34)
+- [Parcel Bundler: Criando um projeto React](https://medium.com/tableless/parcel-bundler-criando-um-projeto-react-1a620a151e34)
 
 ### Russian
 
