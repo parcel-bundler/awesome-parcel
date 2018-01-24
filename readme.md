@@ -57,6 +57,7 @@
 - [Elm](https://github.com/ssuman/parcel-plugin-elm) - Plugin that enables Elm support.
 - [LightScript](https://github.com/chee/parcel-plugin-lightscript) - Example plugin for loading LightScript.
 - [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Plugin for Emscripten support.
+- [Fable](https://github.com/slogsdon/parcel-plugin-fable) - Enable F# support via Fable + Babel.
 
 ### Other
 
