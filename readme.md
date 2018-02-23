@@ -22,6 +22,7 @@
 - [Articles](#articles)
     - [English](#english)
     - [Russian](#russian)
+    - [French](#french)
 
 
 ## Examples
@@ -88,6 +89,9 @@
 - [Parcel — очень быстрый бандлер, не требующий настройки](https://habrahabr.ru/post/344486/) - Parcel quick review.
 - [Parcel — пишем плагин](https://habrahabr.ru/post/344858/) - How to write a Parcel plugin.
 
+### French
+
+- [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985) - Parcel review (video)
 
 ## Contribute
 
