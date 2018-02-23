@@ -91,7 +91,7 @@
 
 ### French
 
-- [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985)
+- [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985) - Parcel review (video)
 
 ## Contribute
 
