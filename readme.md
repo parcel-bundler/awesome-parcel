@@ -23,6 +23,7 @@
     - [English](#english)
     - [Russian](#russian)
     - [French](#french)
+    - [Chinese](#chinese)
 
 
 ## Examples
@@ -92,6 +93,10 @@
 ### French
 
 - [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985) - Parcel review (video)
+
+### Chinese
+
+- [下一代零配置打包工具 Parcel 初体验](https://zhuanlan.zhihu.com/p/34033344) - Quick view of the next generation bundler Parcel
 
 ## Contribute
 
