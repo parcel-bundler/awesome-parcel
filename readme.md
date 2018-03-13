@@ -21,6 +21,7 @@
     - [Other](#other)
 - [Articles](#articles)
     - [English](#english)
+    - [Portuguese](#portuguese)
     - [Russian](#russian)
     - [French](#french)
     - [Chinese](#chinese)
