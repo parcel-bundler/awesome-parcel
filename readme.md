@@ -43,6 +43,7 @@
 
 - [Pug](https://github.com/Ty3uK/parcel-plugin-pug) - Pug template support.
 - [Markdown](https://github.com/gongpeione/parcel-plugin-markdown) - Plugin for markdown support.
+- [Markdown String](https://github.com/jaywcjlove/parcel-plugin-markdown-string) - Plugin for markdown string support.
 - [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Plugin for Mustache template support.
 - [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
 - [Handlebars](https://github.com/TheBlackBolt/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
