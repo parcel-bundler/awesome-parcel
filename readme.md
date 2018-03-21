@@ -74,7 +74,7 @@
 - [Google Closure](https://github.com/fathyb/parcel-plugin-closure) - Plugin that uses Google Closure compiler to minify and tree-shake JavaScript.
 - [Image minification](https://github.com/DeMoorJasper/parcel-plugin-imagemin) - Plugin that uses imagemin to minify images on build
 - [Bundle Visualiser](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - Plugin to visualise bundle contents (the parcel version of webpacks [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer/))
-
+- [css to style object](https://www.npmjs.com/package/parcel-plugin-css-object) import css as object
 ## Integration with other languages, frameworks
 
 - [parcel-rails](https://github.com/michaldarda/parcel-rails) - Ruby On Rails gem, for easier integration into Rails applications
