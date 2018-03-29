@@ -75,6 +75,8 @@
 - [Image minification](https://github.com/DeMoorJasper/parcel-plugin-imagemin) - Plugin that uses imagemin to minify images on build
 - [Bundle Visualiser](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - Plugin to visualise bundle contents (the parcel version of webpacks [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer/))
 - [css to style object](https://www.npmjs.com/package/parcel-plugin-css-object) import css as object
+- [SW Precache](https://github.com/cyyyu/parcel-plugin-sw-precache) Plugin to generate a service worker file that will precache resources so they work offline. (PWA)
+
 ## Integration with other languages, frameworks
 
 - [parcel-rails](https://github.com/michaldarda/parcel-rails) - Ruby On Rails gem, for easier integration into Rails applications
