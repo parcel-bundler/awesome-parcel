@@ -37,6 +37,7 @@
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
 - [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
+- [Electron](https://github.com/reed-jones/electron-parcel-template) - Simple Electron app with Typescript, Jest, Pug, and Stylus.
 
 
 ## Plugins
