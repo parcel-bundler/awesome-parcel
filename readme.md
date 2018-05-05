@@ -88,7 +88,6 @@
 ### English
 
 - [Announcing Parcel: A blazing fast, zero configuration web application bundler](https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=search_post---------0)
-- [Tutorial: Setting up React with Parcel. A comparison with Webpack 3](https://www.valentinog.com/blog/tutorial-react-parcel-bundler/)
 - [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@d.kang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
 - [Code Splitting with Parcel Web App Bundler](https://hackernoon.com/code-splitting-with-parcel-web-app-bundler-fe06cc3a20da)
 
