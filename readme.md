@@ -38,6 +38,7 @@
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
 - [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
 - [Electron](https://github.com/reed-jones/electron-parcel-template) - Simple Electron app with Typescript, Jest, Pug, and Stylus.
+- [PixiJS with Typescript](https://github.com/lucas-jones/pixi-ts-parcel-example) - Simple PixiJS starter app.
 
 
 ## Plugins
@@ -72,6 +73,7 @@
 - [Bundle Manifest](https://github.com/mugi-uno/parcel-plugin-bundle-manifest) - Plugin for generating a bundle manifest.
 - [AppCache](https://github.com/pierredavidbelanger/parcel-plugin-appcache) - Plugin for generating an appcache manifest.
 - [Inline SVG](https://github.com/albinotonnina/parcel-plugin-inlinesvg) - Plugin that enables inline svg support.
+- [Wrapper](https://github.com/albinotonnina/parcel-plugin-wrapper) - Plugin that wraps output files with custom text or code.
 - [Url-Loader](https://github.com/fansenze/parcel-plugin-url-loader) - Plugin that enables convert image to base64 in `.js`.
 - [Google Closure](https://github.com/fathyb/parcel-plugin-closure) - Plugin that uses Google Closure compiler to minify and tree-shake JavaScript.
 - [Image minification](https://github.com/DeMoorJasper/parcel-plugin-imagemin) - Plugin that uses imagemin to minify images on build
@@ -89,7 +91,6 @@
 ### English
 
 - [Announcing Parcel: A blazing fast, zero configuration web application bundler](https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=search_post---------0)
-- [Tutorial: Setting up React with Parcel. A comparison with Webpack 3](https://www.valentinog.com/blog/tutorial-react-parcel-bundler/)
 - [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@d.kang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
 - [Code Splitting with Parcel Web App Bundler](https://hackernoon.com/code-splitting-with-parcel-web-app-bundler-fe06cc3a20da)
 
