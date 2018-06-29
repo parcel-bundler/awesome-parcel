@@ -31,7 +31,7 @@
 ## Examples
 
 - [React](https://github.com/jaredpalmer/react-parcel-example) - Minimum viable React app.
-- [React with SSR](https://github.com/gregtillbrook/react-head-start) - React starter app including Server Side Rendering and code splitting. 
+- [React with SSR](https://github.com/gregtillbrook/react-head-start) - React starter app including Server Side Rendering and code splitting.
 - [React with TypeScript](https://github.com/adhrinae/ts-react-parcel) - Example code and test cases with React, TypeScript, Jest.
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
@@ -80,6 +80,7 @@
 - [css to style object](https://www.npmjs.com/package/parcel-plugin-css-object) import css as object
 - [SW Precache](https://github.com/cyyyu/parcel-plugin-sw-precache) Plugin to generate a service worker file that will precache resources so they work offline. (PWA)
 - [react-native-web](https://github.com/dalcib/parcel-plugin-react-native-web) - Plugin that enables [react-native-web](https://github.com/necolas/react-native-web) support.
+- [web-extension](https://github.com/kevincharm/parcel-plugin-web-extension) - Plugin that enables to use a WebExtension `manifest.json` as an entry point.
 
 ## Integration with other languages, frameworks
 
