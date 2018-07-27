@@ -82,6 +82,7 @@
 - [react-native-web](https://github.com/dalcib/parcel-plugin-react-native-web) - Plugin that enables [react-native-web](https://github.com/necolas/react-native-web) support.
 - [web-extension](https://github.com/kevincharm/parcel-plugin-web-extension) - Plugin that enables to use a WebExtension `manifest.json` as an entry point.
 - [Static Files Copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - Plugin that copy static files into bundle directory.
+- [Inliner](https://github.com/shff/parcel-plugin-inliner) - Inlines all your CSS, JS and images in a single HTML file. Great for small websites.
 
 ## Integration with other languages, frameworks
 
