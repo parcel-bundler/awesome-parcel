@@ -109,7 +109,7 @@
 ### French
 
 - [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985) - Parcel review (video)
-- [Parcel - Phoenix integration](https://medium.com/@_MaximeBlanc/phoenix-changer-de-bundler-e53f00110740) - Integration in a framework
+- [Parcel - Changer le bundler de Phoenix](https://medium.com/@_MaximeBlanc/phoenix-changer-de-bundler-e53f00110740) - Integration in a framework
 
 ### Chinese
 
