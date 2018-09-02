@@ -85,6 +85,7 @@
 - [Inliner](https://github.com/shff/parcel-plugin-inliner) - Inlines all your CSS, JS and images in a single HTML file. Great for small websites.
 - [PurifyCSS](https://github.com/shff/parcel-plugin-purifycss) - Removes unused selectors from your CSS files using [PurifyCSS](https://github.com/purifycss/purifycss).
 - [Modernizr](https://github.com/hirasso/parcel-plugin-modernizr) – Generates a custom modernizr build
+- [Manifest](https://github.com/hirasso/parcel-plugin-manifest) – Create a `manifest.json` in the `./dist` folder containing references to the (hashed) asset files.
 
 ## Integration with other languages, frameworks
 
