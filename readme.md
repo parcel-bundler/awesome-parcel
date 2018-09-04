@@ -35,6 +35,7 @@
 - [React with TypeScript](https://github.com/adhrinae/ts-react-parcel) - Example code and test cases with React, TypeScript, Jest.
 - [Angular](https://github.com/DeMoorJasper/Angular-Parcel-Boilerplate) - Angular boilerplate.
 - [Vue.js](https://github.com/parcel-bundler/examples/tree/master/Vue) - Basic `Hello, World!` example.
+- [Vue.js with Vuex and Vue Router](https://github.com/proYang/vue-parcel-demo) - Quickstart example including Code Splitting, Hot Reloading, Vuex, Vue Router and Less.
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
 - [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
 - [PixiJS with Typescript](https://github.com/lucas-jones/pixi-ts-parcel-example) - Simple PixiJS starter app.
