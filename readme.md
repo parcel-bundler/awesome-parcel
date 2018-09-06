@@ -85,6 +85,7 @@
 - [Static Files Copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - Plugin that copies static files into bundle directory.
 - [Inliner](https://github.com/shff/parcel-plugin-inliner) - Inlines all your CSS, JS and images in a single HTML file. Great for small websites.
 - [PurifyCSS](https://github.com/shff/parcel-plugin-purifycss) - Removes unused selectors from your CSS files using [PurifyCSS](https://github.com/purifycss/purifycss).
+- [PurgeCSS](https://github.com/cprecioso/parcel-plugin-purgecss) - Removes unused selectors from your CSS files using [PurgeCSS](https://github.com/purifycss/https://github.com/FullHuman/purgecss).
 - [Modernizr](https://github.com/hirasso/parcel-plugin-modernizr) - Generates a custom modernizr build
 
 ## Integration with other languages, frameworks
