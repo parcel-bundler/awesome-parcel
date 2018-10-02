@@ -51,6 +51,7 @@
 - [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Plugin for Mustache template support.
 - [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
 - [Handlebars](https://github.com/TheBlackBolt/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
+- [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 
 ### Frameworks
 
