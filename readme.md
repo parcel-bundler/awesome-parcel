@@ -101,6 +101,7 @@
 - [Announcing Parcel: A blazing fast, zero configuration web application bundler](https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=search_post---------0)
 - [Parcel Bundler with React and Hot Module Replacement](https://medium.com/@d.kang/parcel-bundler-with-react-and-hot-module-replacement-7f92efd25584)
 - [Code Splitting with Parcel Web App Bundler](https://hackernoon.com/code-splitting-with-parcel-web-app-bundler-fe06cc3a20da)
+- [Parcel: A Zero-Configuration Webpack Alternative](https://www.youtube.com/watch?v=4XB6jcyiADY) - Get started with Parcel in 20 minutes(video)
 
 ### Portuguese
 
