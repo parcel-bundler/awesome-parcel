@@ -91,6 +91,7 @@
 - [Modernizr](https://github.com/hirasso/parcel-plugin-modernizr) - Generates a custom modernizr build
 - [Watch Reload](https://github.com/hirasso/parcel-plugin-watch-reload) - Watches files outside of parcel bundles and sends a reload request to parcel if they change
 - [HTML Interpolation](https://github.com/krotovic/parcel-plugin-interpolate-html) - Interpolation plugin that gives you option to use your .env variable inside HTML
+- [Static ZIP](https://github.com/agentcooper/parcel-plugin-static-zip) - Provide archived local directory in the static build. Useful for BrowserFS.
 
 ## Integration with other languages, frameworks
 
