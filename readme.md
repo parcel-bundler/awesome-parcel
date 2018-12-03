@@ -53,6 +53,7 @@
 - [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
 - [Handlebars](https://github.com/TheBlackBolt/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
+- [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
 
 ### Frameworks
 
