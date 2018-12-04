@@ -94,6 +94,7 @@
 - [HTML Interpolation](https://github.com/krotovic/parcel-plugin-interpolate-html) - Interpolation plugin that gives you option to use your .env variable inside HTML
 - [Static ZIP](https://github.com/agentcooper/parcel-plugin-static-zip) - Provide archived local directory in the static build. Useful for BrowserFS.
 - [Shebang](https://github.com/sintloer/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
+- [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
 
 ## Integration with other languages, frameworks
 
