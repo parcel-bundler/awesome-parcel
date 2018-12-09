@@ -95,6 +95,7 @@
 - [Static ZIP](https://github.com/agentcooper/parcel-plugin-static-zip) - Provide archived local directory in the static build. Useful for BrowserFS.
 - [Shebang](https://github.com/sintloer/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
 - [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
+- [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 
 ## Integration with other languages, frameworks
 
