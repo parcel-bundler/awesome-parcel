@@ -39,6 +39,7 @@
 - [Metal.js](https://github.com/matuzalemsteles/metal-parcel-example) - Simple example with Metal.js.
 - [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
 - [PixiJS with Typescript](https://github.com/lucas-jones/pixi-ts-parcel-example) - Simple PixiJS starter app.
+- [Dart](https://github.com/neutrino2211/parcel-plugin-dart/tree/master/examples/helloworld) - Simple `Hello, World` example.
 
 
 ## Plugins
@@ -68,6 +69,7 @@
 - [LightScript](https://github.com/chee/parcel-plugin-lightscript) - Example plugin for loading LightScript.
 - [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Plugin for Emscripten support.
 - [Fable](https://github.com/slogsdon/parcel-plugin-fable) - Enable F# support via Fable + Babel.
+- [Dart](https://github.com/neutrino2211/parcel-plugin-dart) - Plugin for Dart support via dart2js
 
 ### Other
 
