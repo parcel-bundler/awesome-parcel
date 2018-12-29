@@ -126,7 +126,7 @@
 ### Chinese
 
 - [下一代零配置打包工具 Parcel 初体验](https://zhuanlan.zhihu.com/p/34033344) - Quick view of the next generation bundler Parcel
-
+- [Parcel 教程？不需要。](https://blog.zfanw.com/parcel-bundler-tutorial/) - You don't need a tutorial for Parcel since it's so easy
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
