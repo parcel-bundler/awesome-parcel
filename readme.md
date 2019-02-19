@@ -79,6 +79,7 @@
 - [AppCache](https://github.com/pierredavidbelanger/parcel-plugin-appcache) - Plugin for generating an appcache manifest.
 - [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Run workbox-build after every build.
 - [Inline SVG](https://github.com/albinotonnina/parcel-plugin-inlinesvg) - Plugin that enables inline svg support.
+- [SVG Sprite](https://github.com/Epimodev/parcel-plugin-svg-sprite) - Plugin that generates a sprite of imported svg files.
 - [Wrapper](https://github.com/albinotonnina/parcel-plugin-wrapper) - Plugin that wraps output files with custom text or code.
 - [Url-Loader](https://github.com/fansenze/parcel-plugin-url-loader) - Plugin that enables convert image to base64 in `js`/`css`.
 - [Google Closure](https://github.com/fathyb/parcel-plugin-closure) - Plugin that uses Google Closure compiler to minify and tree-shake JavaScript.
