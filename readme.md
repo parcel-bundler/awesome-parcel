@@ -68,6 +68,7 @@
 - [BuckleScript](https://github.com/jihchi/parcel-plugin-bucklescript) - Plugin that enables BuckleScript support
 - [Elm](https://github.com/ssuman/parcel-plugin-elm) - Plugin that enables Elm support.
 - [LightScript](https://github.com/chee/parcel-plugin-lightscript) - Example plugin for loading LightScript.
+- [LiveScript](https://github.com/c0deaddict/parcel-plugin-livescript) - Plugin for LiveScript support.
 - [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Plugin for Emscripten support.
 - [Fable](https://github.com/slogsdon/parcel-plugin-fable) - Enable F# support via Fable + Babel.
 - [Dart](https://github.com/neutrino2211/parcel-plugin-dart) - Plugin for Dart support via dart2js
