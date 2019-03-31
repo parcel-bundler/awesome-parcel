@@ -106,6 +106,7 @@
 ## Integration with other languages, frameworks
 
 - [parcel-rails](https://github.com/michaldarda/parcel-rails) - Ruby On Rails gem, for easier integration into Rails applications
+- [karma-parcel](https://github.com/valotas/karma-parcel) - Let parcel bundle your tests that karma should run
 
 ## Articles
 
