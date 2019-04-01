@@ -41,6 +41,7 @@
 - [ReasonReact](https://github.com/Raincal/parcel-reason-react-app) - Simple Reason React app.
 - [PixiJS with Typescript](https://github.com/lucas-jones/pixi-ts-parcel-example) - Simple PixiJS starter app.
 - [Dart](https://github.com/neutrino2211/parcel-plugin-dart/tree/master/examples/helloworld) - Simple `Hello, World` example.
+- [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A beginner-friendly AWS Lambda function that logs events from IoT devices into a git repository of your choice. Written in TypeScript, tested with Jest, compiled with Parcel into a single file. The project uses Azure Pipelines as CI.
 
 
 ## Plugins
