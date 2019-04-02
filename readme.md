@@ -103,6 +103,7 @@
 - [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
 - [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
+- [Structurize](https://www.npmjs.com/package/parcel-plugin-structurize) Structurize the build directory using glob matching and update paths as well.
 
 ## Integration with other languages, frameworks
 
