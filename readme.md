@@ -105,6 +105,7 @@
 - [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
 - [Structurize](https://www.npmjs.com/package/parcel-plugin-structurize) Structurize the build directory using glob matching and update paths as well.
+- [parcel-plugin-run-server](https://github.com/qualitybath/parcel-plugin-run-server) Start (and restart) a node server while running in watch mode.
 
 ## Integration with other languages, frameworks
 
