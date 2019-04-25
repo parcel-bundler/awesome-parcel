@@ -106,6 +106,7 @@
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
 - [Structurize](https://www.npmjs.com/package/parcel-plugin-structurize) Structurize the build directory using glob matching and update paths as well.
 - [parcel-plugin-run-server](https://github.com/qualitybath/parcel-plugin-run-server) Start (and restart) a node server while running in watch mode.
+- [parcel-plugin-prerender](https://github.com/ABuffSeagull/parcel-plugin-prerender) Drop-in universal pre-rendering.
 
 ## Integration with other languages, frameworks
 
