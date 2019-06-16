@@ -129,8 +129,8 @@
 
 ### Russian
 
-- [Parcel — очень быстрый бандлер, не требующий настройки](https://habr.com/post/344486/) - Parcel quick review.
-- [Parcel — пишем плагин](https://habr.com/post/344858/) - How to write a Parcel plugin.
+- [Parcel — очень быстрый бандлер, не требующий настройки](https://habr.com/ru/post/344486/) - Parcel quick review.
+- [Parcel — пишем плагин](https://habr.com/ru/post/344858/) - How to write a Parcel plugin.
 
 ### French
 
