@@ -54,7 +54,7 @@
 - [Markdown with Frontmatter](https://github.com/umstek/parcel-plugin-md-fm) - Plugin for markdown with frontmatter support.
 - [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Plugin for Mustache template support.
 - [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
-- [Handlebars](https://github.com/TheBlackBolt/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
+- [Handlebars](https://github.com/robbiedigital/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 - [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
 
@@ -100,7 +100,7 @@
 - [Watch Reload](https://github.com/hirasso/parcel-plugin-watch-reload) - Watches files outside of parcel bundles and sends a reload request to parcel if they change
 - [HTML Interpolation](https://github.com/krotovic/parcel-plugin-interpolate-html) - Interpolation plugin that gives you option to use your .env variable inside HTML
 - [Static ZIP](https://github.com/agentcooper/parcel-plugin-static-zip) - Provide archived local directory in the static build. Useful for BrowserFS.
-- [Shebang](https://github.com/sintloer/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
+- [Shebang](https://github.com/cyntl3r/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
 - [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
 - [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
@@ -129,12 +129,12 @@
 
 ### Russian
 
-- [Parcel — очень быстрый бандлер, не требующий настройки](https://habrahabr.ru/post/344486/) - Parcel quick review.
-- [Parcel — пишем плагин](https://habrahabr.ru/post/344858/) - How to write a Parcel plugin.
+- [Parcel — очень быстрый бандлер, не требующий настройки](https://habr.com/post/344486/) - Parcel quick review.
+- [Parcel — пишем плагин](https://habr.com/post/344858/) - How to write a Parcel plugin.
 
 ### French
 
-- [Parcel - Présentation](https://www.grafikart.fr/tutoriels/javascript/parcel-bundler-985) - Parcel review (video)
+- [Parcel - Présentation](https://www.grafikart.fr/tutoriels/parcel-bundler-985) - Parcel review (video)
 - [Parcel - Changer le bundler de Phoenix](https://dev.to/jeansmaug/phoenix-changer-de-bundler-4339) - Integration in a framework
 
 ### Chinese
