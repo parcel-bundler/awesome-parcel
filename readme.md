@@ -110,6 +110,7 @@
 - [parcel-plugin-ogimage](https://github.com/lukechilds/parcel-plugin-ogimage) Set absolute URL for og:image meta tags.
 - [parcel-plugin-graphql-raw](https://github.com/Ty3uK/parcel-plugin-graphql-raw) Export GraphQL files as plain text.
 - [parcel-plugin-goodie-bag](https://github.com/edm00se/parcel-plugin-goodie-bag/) Automatically polyfill `Promise` and `fetch` for Internet Explorer (11) support of importing HTML.
+- [parcel-plugin-subresource-integrity](https://github.com/jonathannen/parcel-plugin-subresource-integrity/) Adds Subresource `integrity` attributes to the HTML entry point for CSS and JS assets.
 
 ## Integration with other languages, frameworks
 
