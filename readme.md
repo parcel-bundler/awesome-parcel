@@ -111,6 +111,7 @@
 - [parcel-plugin-graphql-raw](https://github.com/Ty3uK/parcel-plugin-graphql-raw) Export GraphQL files as plain text.
 - [parcel-plugin-goodie-bag](https://github.com/edm00se/parcel-plugin-goodie-bag/) Automatically polyfill `Promise` and `fetch` for Internet Explorer (11) support of importing HTML.
 - [parcel-plugin-subresource-integrity](https://github.com/jonathannen/parcel-plugin-subresource-integrity/) Adds Subresource `integrity` attributes to the HTML entry point for CSS and JS assets.
+- [CSS Modules](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules) Plugin to generate `.d.ts` (TypeScript type definitions) files for your CSS Modules, powered by [@Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules).
 
 ## Integration with other languages, frameworks
 
