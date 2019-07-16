@@ -112,6 +112,7 @@
 - [parcel-plugin-goodie-bag](https://github.com/edm00se/parcel-plugin-goodie-bag/) Automatically polyfill `Promise` and `fetch` for Internet Explorer (11) support of importing HTML.
 - [parcel-plugin-subresource-integrity](https://github.com/jonathannen/parcel-plugin-subresource-integrity/) Adds Subresource `integrity` attributes to the HTML entry point for CSS and JS assets.
 - [CSS Modules](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules) Plugin to generate `.d.ts` (TypeScript type definitions) files for your CSS Modules, powered by [@Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules).
+- [parcel-plugin-overwolf](https://github.com/sammccord/parcel-plugin-overwolf) Plugin that enables use of [Overwolf's `manifest.json`](http://developers.overwolf.com/documentation/sdk/overwolf/manifest-json/)
 
 ## Integration with other languages, frameworks
 
