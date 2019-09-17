@@ -115,6 +115,7 @@
 - [CSS Modules](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules) Plugin to generate `.d.ts` (TypeScript type definitions) files for your CSS Modules, powered by [@Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules).
 - [parcel-plugin-overwolf](https://github.com/sammccord/parcel-plugin-overwolf) Plugin that enables use of [Overwolf's `manifest.json`](http://developers.overwolf.com/documentation/sdk/overwolf/manifest-json/)
 - [code obfuscation](https://github.com/jabuco/parcel-plugin-obfuscate) Plugin that uses [`javascript-obfuscate`](https://github.com/javascript-obfuscator/javascript-obfuscator/) to obfuscate javascript code of entry assets.
+- [Linaria CSS-in-JS](https://github.com/callstack/parcel-plugin-linaria) Plugin to use Linaria library.
 
 ## Integration with other languages, frameworks
 
