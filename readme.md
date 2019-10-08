@@ -58,6 +58,7 @@
 - [Handlebars](https://github.com/robbiedigital/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 - [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
+- [MJML](https://github.com/adambrgmn/parcel-plugin-mjml) - Plugin to compile [MJML](https://mjml.io) templates.
 
 ### Frameworks
 
