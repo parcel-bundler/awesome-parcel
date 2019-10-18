@@ -55,7 +55,7 @@
 - [Markdown String](https://github.com/jaywcjlove/parcel-plugin-markdown-string) - Plugin for markdown string support.
 - [Markdown with Frontmatter](https://github.com/umstek/parcel-plugin-md-fm) - Plugin for markdown with frontmatter support.
 - [Mustache](https://github.com/suuzee/parcel-plugin-mustache) - Plugin for Mustache template support.
-- [Nunjucks](https://github.com/devmattrick/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
+- [Nunjucks](https://github.com/chocolateboy/parcel-plugin-nunjucks) - Plugin to compile Nunjucks templates.
 - [Handlebars](https://github.com/robbiedigital/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 - [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
@@ -70,7 +70,6 @@
 - [TypeScript](https://github.com/fathyb/parcel-plugin-typescript) - Enhanced TypeScript integration.
 - [BuckleScript](https://github.com/jihchi/parcel-plugin-bucklescript) - Plugin that enables BuckleScript support
 - [Elm](https://github.com/ssuman/parcel-plugin-elm) - Plugin that enables Elm support.
-- [LightScript](https://github.com/chee/parcel-plugin-lightscript) - Example plugin for loading LightScript.
 - [LiveScript](https://github.com/c0deaddict/parcel-plugin-livescript) - Plugin for LiveScript support.
 - [Emscripten](https://github.com/taktod/parcel-plugin-emc) - Plugin for Emscripten support.
 - [Fable](https://github.com/slogsdon/parcel-plugin-fable) - Enable F# support via Fable + Babel.
@@ -114,9 +113,10 @@
 - [parcel-plugin-goodie-bag](https://github.com/edm00se/parcel-plugin-goodie-bag/) Automatically polyfill `Promise` and `fetch` for Internet Explorer (11) support of importing HTML.
 - [parcel-plugin-subresource-integrity](https://github.com/jonathannen/parcel-plugin-subresource-integrity/) Adds Subresource `integrity` attributes to the HTML entry point for CSS and JS assets.
 - [CSS Modules](https://github.com/rfgamaral/parcel-plugin-typings-for-css-modules) Plugin to generate `.d.ts` (TypeScript type definitions) files for your CSS Modules, powered by [@Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules).
-- [parcel-plugin-overwolf](https://github.com/sammccord/parcel-plugin-overwolf) Plugin that enables use of [Overwolf's `manifest.json`](http://developers.overwolf.com/documentation/sdk/overwolf/manifest-json/)
+- [parcel-plugin-overwolf](https://github.com/sammccord/parcel-plugin-overwolf) Plugin that enables use of [Overwolf's `manifest.json`](https://overwolf.github.io/docs/api/manifest-json)
 - [code obfuscation](https://github.com/jabuco/parcel-plugin-obfuscate) Plugin that uses [`javascript-obfuscate`](https://github.com/javascript-obfuscator/javascript-obfuscator/) to obfuscate javascript code of entry assets.
 - [Linaria CSS-in-JS](https://github.com/callstack/parcel-plugin-linaria) Plugin to use Linaria library.
+- [parcel-plugin-codgen](https://github.com/FlorianRappl/parcel-plugin-codegen) - Allows to generate modules on the fly, i.e., a Node.js solution for metaprogramming modules.
 
 ## Integration with other languages, frameworks
 
