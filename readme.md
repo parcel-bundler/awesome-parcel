@@ -116,6 +116,7 @@
 - [parcel-plugin-overwolf](https://github.com/sammccord/parcel-plugin-overwolf) Plugin that enables use of [Overwolf's `manifest.json`](http://developers.overwolf.com/documentation/sdk/overwolf/manifest-json/)
 - [code obfuscation](https://github.com/jabuco/parcel-plugin-obfuscate) Plugin that uses [`javascript-obfuscate`](https://github.com/javascript-obfuscator/javascript-obfuscator/) to obfuscate javascript code of entry assets.
 - [Linaria CSS-in-JS](https://github.com/callstack/parcel-plugin-linaria) Plugin to use Linaria library.
+- [parcel-plugin-codgen](https://github.com/FlorianRappl/parcel-plugin-codegen) - Allows to generate modules on the fly, i.e., a Node.js solution for metaprogramming modules.
 
 ## Integration with other languages, frameworks
 
