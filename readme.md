@@ -116,6 +116,7 @@
 - [code obfuscation](https://github.com/jabuco/parcel-plugin-obfuscate) Plugin that uses [`javascript-obfuscate`](https://github.com/javascript-obfuscator/javascript-obfuscator/) to obfuscate javascript code of entry assets.
 - [Linaria CSS-in-JS](https://github.com/callstack/parcel-plugin-linaria) Plugin to use Linaria library.
 - [parcel-plugin-codgen](https://github.com/FlorianRappl/parcel-plugin-codegen) - Allows to generate modules on the fly, i.e., a Node.js solution for metaprogramming modules.
+- [parcel-plugin-externals](https://github.com/FlorianRappl/parcel-plugin-externals) - Adds the ability to omit specified dependencies from the generated bundle(s), e.g., by referencing global variables.
 
 ## Integration with other languages, frameworks
 
