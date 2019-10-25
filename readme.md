@@ -30,6 +30,7 @@
 
 ## Examples
 
+- [Preact Boilerplate](https://github.com/SafdarJamal/preact-boilerplate) - A minimal Preact boilerplate project, powered by Parcel.
 - [Element UI](https://github.com/bubnenkoff/parcel-vue-template) - Minimal Vue Element UI Parcel template.
 - [React](https://github.com/jaredpalmer/react-parcel-example) - Minimum viable React app.
 - [React with SSR](https://github.com/gregtillbrook/react-head-start) - React starter app including Server Side Rendering and code splitting.
