@@ -110,7 +110,7 @@
 - [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
 - [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
-- [Structurize](https://www.npmjs.com/package/parcel-plugin-structurize) Structurize the build directory using glob matching and update paths as well.
+- [structurize](https://www.npmjs.com/package/parcel-plugin-structurize) Customize output (dist) directory folder structure.
 - [parcel-plugin-run-server](https://github.com/qualitybath/parcel-plugin-run-server) Start (and restart) a node server while running in watch mode.
 - [parcel-plugin-prerender](https://github.com/ABuffSeagull/parcel-plugin-prerender) Drop-in universal pre-rendering.
 - [parcel-plugin-ogimage](https://github.com/lukechilds/parcel-plugin-ogimage) Set absolute URL for og:image meta tags.
