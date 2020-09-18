@@ -59,7 +59,7 @@
 - [Handlebars](https://github.com/robbiedigital/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 - [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
-- [Protobuf-ts](https://github.com/meketh/parcel-plugin-pbf-ts) - Plugin load [Protocol Buffer](https://developers.google.com/protocol-buffers/) files with [pbf](https://github.com/mapbox/pbf) with generated [TypeScript](https://www.typescriptlang.org/) types and extensions.
+- [Protobuf-ts](https://github.com/meketh/parcel-plugin-pbf-ts) - Plugin to load [Protocol Buffer](https://developers.google.com/protocol-buffers/) schemas with [pbf](https://github.com/mapbox/pbf) and generated [TypeScript](https://www.typescriptlang.org/) types and extensions.
 
 ### Frameworks
 
