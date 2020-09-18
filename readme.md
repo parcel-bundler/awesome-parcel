@@ -2,31 +2,29 @@
 
 > A curated list of Parcel [plugins](https://www.npmjs.com/search?q=parcel-plugin-), articles, etc.
 
-
 ## Ecosystem
+
 - [Website](https://parceljs.org)
 - [Documentation](https://parceljs.org/getting_started.html)
 - [Repository](https://github.com/parcel-bundler/parcel)
 - [Twitter](https://twitter.com/parceljs)
 - [Slack](https://slack.parceljs.org/)
 
-
 ## Contents
 
 - [Examples](#examples)
 - [Plugins](#plugins)
-    - [Templates](#templates)
-    - [Frameworks](#frameworks)
-    - [JavaScript dialects, other languages](#javascript-dialects-other-languages)
-    - [Other](#other)
+  - [Templates](#templates)
+  - [Frameworks](#frameworks)
+  - [JavaScript dialects, other languages](#javascript-dialects-other-languages)
+  - [Other](#other)
 - [Integration with other languages, frameworks](#integration-with-other-languages-frameworks)
 - [Articles](#articles)
-    - [English](#english)
-    - [Portuguese](#portuguese)
-    - [Russian](#russian)
-    - [French](#french)
-    - [Chinese](#chinese)
-
+  - [English](#english)
+  - [Portuguese](#portuguese)
+  - [Russian](#russian)
+  - [French](#french)
+  - [Chinese](#chinese)
 
 ## Examples
 
@@ -48,7 +46,6 @@
 - [Phaser 3 with Parcel](https://github.com/samme/phaser-parcel) - Simple Phaser game template.
 - [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate) - Boilerplate to automatically publish to Github Pages through Github Actions.
 
-
 ## Plugins
 
 ### Templates
@@ -62,6 +59,7 @@
 - [Handlebars](https://github.com/robbiedigital/parcel-plugin-handlebars) - Plugin to compile handlebars templates.
 - [Handlebars precompile](https://github.com/belicekm/parcel-plugin-handlebars-precompile) - Plugin to precompile handlebars templates into template functions.
 - [Protobuf](https://github.com/Jabher/parcel-plugin-pbf) - Plugin to compile [Protocol Buffer](https://developers.google.com/protocol-buffers/) binary protocol schemas with [pbf](https://github.com/mapbox/pbf).
+- [Protobuf-ts](https://github.com/meketh/parcel-plugin-pbf-ts) - Plugin load [Protocol Buffer](https://developers.google.com/protocol-buffers/) files with [pbf](https://github.com/mapbox/pbf) with generated [TypeScript](https://www.typescriptlang.org/) types and extensions.
 
 ### Frameworks
 
@@ -157,10 +155,10 @@
 
 - [下一代零配置打包工具 Parcel 初体验](https://zhuanlan.zhihu.com/p/34033344) - Quick view of the next generation bundler Parcel
 - [Parcel 教程？不需要。](https://blog.zfanw.com/parcel-bundler-tutorial/) - You don't need a tutorial for Parcel since it's so easy
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
