@@ -104,7 +104,7 @@
 - [Watch Reload](https://github.com/hirasso/parcel-plugin-watch-reload) - Watches files outside of parcel bundles and sends a reload request to parcel if they change
 - [HTML Interpolation](https://github.com/krotovic/parcel-plugin-interpolate-html) - Interpolation plugin that gives you option to use your .env variable inside HTML
 - [Static ZIP](https://github.com/agentcooper/parcel-plugin-static-zip) - Provide archived local directory in the static build. Useful for BrowserFS.
-- [Shebang](https://github.com/cyntl3r/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
+- [parcel-plugin-shebang](https://github.com/cyntler/parcel-plugin-shebang) - Add a shebang to the output files (useful for CLI applications).
 - [data-src](https://github.com/arnellebalane/parcel-plugin-data-src) - Bundles resources defined in `data-srcset` and `data-src` HTML attributes.
 - [compress](https://github.com/ralscha/parcel-plugin-compress) - Precompresses (gzip, brotli) build output with [@gfx/zopfli](https://github.com/gfx/universal-zopfli-js) and [brotli](https://www.npmjs.com/package/brotli)
 - [parcel-plugin-text](https://www.npmjs.com/package/parcel-plugin-text) Load any asset as text
