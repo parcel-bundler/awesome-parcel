@@ -45,6 +45,7 @@
 - [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A beginner-friendly AWS Lambda function that logs events from IoT devices into a git repository of your choice. Written in TypeScript, tested with Jest, compiled with Parcel into a single file. The project uses Azure Pipelines as CI.
 - [Phaser 3 with Parcel](https://github.com/samme/phaser-parcel) - Simple Phaser game template.
 - [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate) - Boilerplate to automatically publish to Github Pages through Github Actions.
+- [Parcel Start](https://github.com/yesnoruly/parcel-start) - Simple starter pack for static websites.
 
 ## Plugins
 
