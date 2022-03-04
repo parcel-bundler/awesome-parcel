@@ -124,6 +124,7 @@
 - [parcel-plugin-externals](https://github.com/FlorianRappl/parcel-plugin-externals) - Adds the ability to omit specified dependencies from the generated bundle(s), e.g., by referencing global variables.
 - [parcel-plugin-nuke-dist](https://github.com/RadValentin/parcel-plugin-nuke-dist) - Wipes the `dist/` directory before compiling a new bundle.
 - [parcel-plugin-marked-prismjs](https://github.com/hemmingson/parcel-plugin-marked-prismjs) - Plugin for using prismjs plugins in md files.
+- [parcel-import-url](https://github.com/ducan-ne/parcel-import-url) - A plugin make import by url not impossible anymore.
 
 ## Integration with other languages, frameworks
 
